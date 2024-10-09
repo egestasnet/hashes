@@ -34,6 +34,8 @@ Daarna krijgen gebruikers een melding dat hun wachtwoord niet meer geldig is en 
 
 Over MD5 hashes.
 
+https://www.google.com/search?q=md5+password+hash+insecure
+
 https://nl.wikipedia.org/wiki/MD5
 
 Dat onderzoek heeft dus betrekking op bestanden, niet op wachtwoorden.
@@ -84,6 +86,8 @@ If everyone has cooperated, you can delete the MD5 field.
 After that, users are notified that their password is no longer valid and must create a new one.
 
 About MD5 hashes.
+
+https://www.google.com/search?q=md5+password+hash+insecure
 
 https://en.wikipedia.org/wiki/MD5
 
