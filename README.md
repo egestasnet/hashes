@@ -52,6 +52,10 @@ https://www.researchgate.net/publication/222578007_MD5_collisions_and_the_impact
 
 https://repo.zenk-security.com/Cryptographie%20.%20Algorithmes%20.%20Steganographie/MD5%20Collisions.pdf
 
+Over bcrypt hashes :
+
+https://auth0.com/blog/hashing-in-action-understanding-bcrypt/
+
 ======
 
 When password hash methods are outdated, for example because new hash methods have been developed, it is sometimes necessary to change the hashes to a database of user data.
@@ -105,3 +109,6 @@ https://www.researchgate.net/publication/222578007_MD5_collisions_and_the_impact
 
 https://repo.zenk-security.com/Cryptographie%20.%20Algorithmes%20.%20Steganographie/MD5%20Collisions.pdf
 
+About bcrypt hashes:
+
+https://auth0.com/blog/hashing-in-action-understanding-bcrypt/
